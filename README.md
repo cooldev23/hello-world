@@ -1,2 +1,2 @@
 # A BIT ABOUT MYSELF
-I'm hoping to start a web design/development career, and need to know how to use git/github.
+I started a career as a full stack developer. Still have a lot to learn, but it's a start!
